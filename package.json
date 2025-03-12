@@ -2,7 +2,7 @@
   "name": "portfolio-react",
   "homepage": "https://BlueSky02015.github.io/My_Michael_Portfolio",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",

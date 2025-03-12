@@ -3,10 +3,10 @@ import "./index.css";
 import { LoadingScreen } from "./component/LoadingScreen";
 import { Navbar } from "./component/navbar";
 import { MobileMenu } from "./component/MobileMenu";
-import { Home } from "./component/pages/Home";
-import { About } from "./component/pages/about";
-import { Projects } from "./component/pages/project";
-import { Contact } from "./component/pages/contact";
+import { Home } from "./component/section/Home";
+import { About } from "./component/section/about";
+import { Projects } from "./component/section/project";
+import { Contact } from "./component/section/contact";
 
 
 function App() {
